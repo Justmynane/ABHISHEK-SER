@@ -7,13 +7,11 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
-  ['2348107909262', 'LUCENT', true],
+  ['2348107909262', 'ⁱᵃᵐ|ʟʊcԑη𝖙', true],
   [''] 
 ] //Number of owners
-
-global.mods = ['919074692450','2348107909262'] 
-global.prems = ['919074692450', '919074692450', '919074692450']
+global.mods = ['2348107909262'] 
+global.prems = ['2348107909262']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,7 +48,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'LUCENT-B0t'
 global.premium = 'true'
 global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯Lucent☘️' 
-global.author = 'ABHISHEK SURESH' 
+global.author = 'Lucent' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
